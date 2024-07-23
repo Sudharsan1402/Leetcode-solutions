@@ -10,9 +10,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
