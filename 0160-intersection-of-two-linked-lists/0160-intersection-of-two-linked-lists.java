@@ -28,11 +28,11 @@ public class Solution {
             ListNode r1 = a.pop();
             ListNode r2 = b.pop();
 
-            if(!r1.equals(r2)){
-                break;
+            if(r1.equals(r2)){
+                ptr = r2;
 
             }
-            ptr = r1;
+            
             
         }
         return ptr;
