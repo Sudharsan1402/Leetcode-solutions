@@ -23,21 +23,15 @@ public class Solution {
             b.push(headB);
             headB = headB.next;
         }
-        while(!a.empty() && !b.empty()){
+        while (!a.isEmpty() && !b.isEmpty()) {
             ListNode r1 = a.pop();
             ListNode r2 = b.pop();
 
-            if(r1.equals(r2)){
-                ptr = r2;
-
-            }
-            
-            
+            if (r1 == r2) {
+                ptr = r1;
+                }
         }
+        
         return ptr;
-
-
-        
-        
     }
 }
