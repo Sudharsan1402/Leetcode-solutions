@@ -19,7 +19,6 @@ class Solution {
             merge[k++] = nums2[j++];
         }
 
-        Arrays.sort(merge);
         int N = merge.length;
         if(N%2 == 0){
             return (merge[(N/2)]+merge[(N/2)-1])/2.0;
