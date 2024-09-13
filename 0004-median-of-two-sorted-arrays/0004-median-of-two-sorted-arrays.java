@@ -18,6 +18,7 @@ class Solution {
         while(j < nums2.length){
             merge[k++] = nums2[j++];
         }
+        System.out.println(merge);
 
         int N = merge.length;
         if(N%2 == 0){
