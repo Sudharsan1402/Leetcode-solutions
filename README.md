@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1250-longest-common-subsequence](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [2470-removing-stars-from-a-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0198-house-robber) |
+| [1250-longest-common-subsequence](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
