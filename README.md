@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0198-house-robber](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0860-design-circular-queue](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
