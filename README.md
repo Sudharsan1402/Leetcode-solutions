@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0198-house-robber](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0860-design-circular-queue](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
