@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0432-all-oone-data-structure](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0860-design-circular-queue) |
 ## Two Pointers
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0859-design-circular-deque) |
@@ -162,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
