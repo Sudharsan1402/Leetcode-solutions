@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0909-stone-game](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0909-stone-game](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
+| [1240-stone-game-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 ## Ordered Set
 |  |
@@ -191,8 +194,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
