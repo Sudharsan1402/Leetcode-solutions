@@ -3,12 +3,12 @@ class Solution {
     public long dividePlayers(int[] skill) {
         int n = skill.length;
         int totalSkill = 0;
-        Map<Integer, Integer> skillMap = new HashMap<>();
+        int[] skillFrequency = new int[1001];
 
-        // Calculate total skill and build frequency map
-        for (int s : skill) {
-            totalSkill += s;
-            skillMap.put(s, skillMap.getOrDefault(s, 0) + 1);
+        // Calculate total skill and skill frequency
+        for (int playerSkill : skill) {
+            totalSkill += playerSkill;
+            skillFrequency[playerSkill]++;
         }
 
         // Check if total skill can be evenly distributed among teams
@@ -16,28 +16,23 @@ class Solution {
             return -1;
         }
 
-        int targetSkill = totalSkill / (n / 2);
+        int targetTeamSkill = totalSkill / (n / 2);
         long totalChemistry = 0;
 
-        // Iterate through unique skill values
-        for (int currSkill : skillMap.keySet()) {
-            int currFreq = skillMap.get(currSkill);
-            int partnerSkill = targetSkill - currSkill;
+        // Calculate total chemistry while verifying valid team formations
+        for (int playerSkill : skill) {
+            int partnerSkill = targetTeamSkill - playerSkill;
 
-            // Check if valid partner skill exists with matching frequency
-            if (
-                !skillMap.containsKey(partnerSkill) ||
-                currFreq != skillMap.get(partnerSkill)
-            ) {
+            // Check if a valid partner exists
+            if (skillFrequency[partnerSkill] == 0) {
                 return -1;
             }
 
-            // Calculate chemistry for all pairs with this skill
-            totalChemistry +=
-            (long) currSkill * (long) partnerSkill * (long) currFreq;
+            totalChemistry += (long) playerSkill * (long) partnerSkill;
+            skillFrequency[partnerSkill]--;
         }
 
-        // Return half of total chemistry (as each pair is counted twice)
+        // Return half of totalChemistry as each pair is counted twice
         return totalChemistry / 2;
     }
 }
