@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1923-sentence-similarity-iii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -213,4 +216,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
