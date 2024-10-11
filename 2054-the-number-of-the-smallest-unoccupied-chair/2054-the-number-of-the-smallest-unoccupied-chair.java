@@ -1,21 +1,27 @@
 class Solution {
-
     public int smallestChair(int[][] times, int targetFriend) {
-        int[] targetTime = times[targetFriend];
-        Arrays.sort(times, (a, b) -> Integer.compare(a[0], b[0]));
-
-        int n = times.length;
-        int[] chairTime = new int[n];
-
-        for (int[] time : times) {
-            for (int i = 0; i < n; i++) {
-                if (chairTime[i] <= time[0]) {
-                    chairTime[i] = time[1];
-                    if (Arrays.equals(time, targetTime)) return i;
-                    break;
-                }
+        List<Integer> sorted = new ArrayList<>();
+        for(int i=0; i<times.length; i++) sorted.add(i);
+        Collections.sort(sorted, (a,b) -> {
+            return times[a][0]-times[b][0];
+        });
+        
+        
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        PriorityQueue<int[]> map = new PriorityQueue<>((a,b)->a[0]-b[0]);
+        int max=0;
+        for(int i=0; i<times.length; i++) {
+            int idx = sorted.get(i);
+            int start = times[idx][0], end = times[idx][1];
+            while(!map.isEmpty() && map.peek()[0] <= start) {
+                pq.add(map.remove()[1]);
             }
+            int next = pq.isEmpty()? max++ : pq.remove();
+            if(idx == targetFriend) return next;
+            
+            map.add(new int[]{end, next});
         }
-        return 0;
+        
+        return -1;
     }
 }
