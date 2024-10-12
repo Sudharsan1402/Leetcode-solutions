@@ -1,33 +1,26 @@
 class Solution {
-
     public int minGroups(int[][] intervals) {
-        // Use a TreeMap to store the points and their counts
-        TreeMap<Integer, Integer> pointToCount = new TreeMap<>();
+       int min=Integer.MAX_VALUE;
+       int max=Integer.MIN_VALUE;
+       int n=intervals.length;
+       for(int[] interval:intervals){
+          max=Math.max(max,interval[1]);
+          min=Math.min(min,interval[0]);
+       }
+       int fre[]=new int[max+2];
+       for(int[] interval:intervals){
+          fre[interval[0]]++;
+          fre[interval[1]+1]--;
 
-        // Mark the starting and ending points in the TreeMap
-        for (int[] interval : intervals) {
-            pointToCount.put(
-                interval[0],
-                pointToCount.getOrDefault(interval[0], 0) + 1
-            );
-            pointToCount.put(
-                interval[1] + 1,
-                pointToCount.getOrDefault(interval[1] + 1, 0) - 1
-            );
-        }
-
-        int concurrentIntervals = 0;
-        int maxConcurrentIntervals = 0;
-
-        // Iterate over the entries of the TreeMap in ascending order of keys
-        for (Map.Entry<Integer, Integer> entry : pointToCount.entrySet()) {
-            concurrentIntervals += entry.getValue(); // Update currently active intervals
-            maxConcurrentIntervals = Math.max(
-                maxConcurrentIntervals,
-                concurrentIntervals
-            ); // Update max intervals
-        }
-
-        return maxConcurrentIntervals;
+       }
+       // prefix sum 
+       int sum=0;
+       int res=0;
+       for(int i=min;i<max+2;i++){
+           sum+=fre[i];
+           res=Math.max(res,sum);
+       }
+      
+       return res;
     }
 }
