@@ -1,46 +1,22 @@
 class Solution {
+    private void backTrack(int[] nums, int index, int currentOR, int maxOR, int[] count){
+        if (currentOR == maxOR) {
+            count[0]++;
+        }
+        for (int i = index; i < nums.length; i++){
+            backTrack(nums, i + 1, currentOR | nums[i], maxOR, count);
+        }
+    }
     public int countMaxOrSubsets(int[] nums) {
-         List<List<Integer>> list=new ArrayList<>();
-         subset(nums,new ArrayList<>(),0,list);
-return countMax(list);
-    }
-    public static int countMax(List<List<Integer>> list){
-        int max=Integer.MIN_VALUE;
-        
-        for(int i=0;i<list.size();i++){
-            int or=0;
-            for(int j=0;j<list.get(i).size();j++){
-                or=or|list.get(i).get(j);
-            }
-            max=Math.max(or,max);
-        }
-        return noOFSets(list,max);
-    }
-    public static int noOFSets(List<List<Integer>> list,int max){
-        int count=0;
-        for(int i=0;i<list.size();i++){
-            int or=0;
-            for(int j=0;j<list.get(i).size();j++){
-                or=or|list.get(i).get(j);
-            }
-            if(or==max){
-                count++;
-            }
-        
-        }
-        return count;
-    }
-    public static void subset(int nums[],ArrayList<Integer>sublist,int i, List<List<Integer>> list){
-        
-        if(i==nums.length){
-            list.add(new ArrayList<>(sublist));
+        int maxOR = 0;
 
-            return;
+        for (int num : nums){
+            maxOR |= num;
         }
-        sublist.add(nums[i]);
-        subset(nums,sublist,i+1,list);
-         sublist.remove(sublist.size() - 1);
-        subset(nums,sublist,i+1,list);
 
+        int[] count = new int[1];
+        backTrack(nums, 0, 0, maxOR, count);
+
+        return count[0];
     }
 }
