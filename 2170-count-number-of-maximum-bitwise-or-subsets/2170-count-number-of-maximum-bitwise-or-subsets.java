@@ -1,15 +1,29 @@
 class Solution {
     public int countMaxOrSubsets(int[] nums) {
-        int max = 0;
-        int [] dp = new int[1 << 17];
-        dp[0] = 1;
-        for(int num: nums){
-            for(int i = max;i>=0;i--){
-                dp[i|num] += dp[i];
-            }
-            max |= num;
+        Set<Integer> set = new HashSet<>();
+        int maxOr = 0;
+        for(int i: nums) {
+            if(set.contains(i))
+                continue;
+
+            maxOr |= i;
+            set.add(i);
         }
-        return dp[max];
-        
+
+        return recursiveSol(nums, 0, 0, maxOr);
+    }
+
+    private int recursiveSol(int[] arr, int i, int currOr, int maxOr) {
+        if(i == arr.length) {
+            if(currOr == maxOr)
+                return 1;
+
+            return 0;
+        }
+
+        int include = recursiveSol(arr, i+1, currOr | arr[i], maxOr);
+        int exclude = recursiveSol(arr, i+1, currOr, maxOr);
+
+        return include + exclude;
     }
 }
