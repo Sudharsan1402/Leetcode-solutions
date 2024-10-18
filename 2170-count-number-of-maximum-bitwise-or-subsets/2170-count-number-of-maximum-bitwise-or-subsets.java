@@ -1,29 +1,46 @@
 class Solution {
     public int countMaxOrSubsets(int[] nums) {
-        Set<Integer> set = new HashSet<>();
-        int maxOr = 0;
-        for(int i: nums) {
-            if(set.contains(i))
-                continue;
-
-            maxOr |= i;
-            set.add(i);
-        }
-
-        return recursiveSol(nums, 0, 0, maxOr);
+         List<List<Integer>> list=new ArrayList<>();
+         subset(nums,new ArrayList<>(),0,list);
+return countMax(list);
     }
-
-    private int recursiveSol(int[] arr, int i, int currOr, int maxOr) {
-        if(i == arr.length) {
-            if(currOr == maxOr)
-                return 1;
-
-            return 0;
+    public static int countMax(List<List<Integer>> list){
+        int max=Integer.MIN_VALUE;
+        
+        for(int i=0;i<list.size();i++){
+            int or=0;
+            for(int j=0;j<list.get(i).size();j++){
+                or=or|list.get(i).get(j);
+            }
+            max=Math.max(or,max);
         }
+        return noOFSets(list,max);
+    }
+    public static int noOFSets(List<List<Integer>> list,int max){
+        int count=0;
+        for(int i=0;i<list.size();i++){
+            int or=0;
+            for(int j=0;j<list.get(i).size();j++){
+                or=or|list.get(i).get(j);
+            }
+            if(or==max){
+                count++;
+            }
+        
+        }
+        return count;
+    }
+    public static void subset(int nums[],ArrayList<Integer>sublist,int i, List<List<Integer>> list){
+        
+        if(i==nums.length){
+            list.add(new ArrayList<>(sublist));
 
-        int include = recursiveSol(arr, i+1, currOr | arr[i], maxOr);
-        int exclude = recursiveSol(arr, i+1, currOr, maxOr);
+            return;
+        }
+        sublist.add(nums[i]);
+        subset(nums,sublist,i+1,list);
+         sublist.remove(sublist.size() - 1);
+        subset(nums,sublist,i+1,list);
 
-        return include + exclude;
     }
 }
