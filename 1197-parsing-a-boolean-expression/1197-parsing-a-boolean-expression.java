@@ -1,47 +1,64 @@
 class Solution {
-    public boolean parseBoolExpr(String expression) {
-    Stack<Character> st = new Stack<>();
-    char temp = ' ', op = ' ';
+    private int idx = 0;
 
-    for(char ch : expression.toCharArray())
-    {
-      if(ch=='(' || ch==',')
-      continue; 
-      if(ch=='t' || ch=='f' || ch=='!' || ch=='&' || ch=='|') 
-      st.push(ch);
-      else if (ch==')')
-      {
-         boolean hasTrue = false, hasFalse=false;
-         while(st.peek()!='!' && st.peek()!='&' && st.peek()!='|')
-         {
-           char val = st.pop();
-           if(val=='t')hasTrue = true;     
-           if(val=='f')hasFalse=true;     
-         }
-        if(!st.isEmpty())
-        op = st.pop();
-         if(op=='!')
-         {
-            if(hasTrue)
-            temp = 'f';
-            else
-            temp = 't';
-         }
-         else if(op=='&')
-         {
-           if(hasTrue==true && hasFalse==false)
-           temp = 't';
-           else temp = 'f';
-         }  
-         else if(op=='|')
-         {
-           if(hasTrue==true)
-           temp = 't';
-           else temp = 'f';
-         }
-         st.push(temp);
-      } 
-    }   
-    return st.peek()=='t';
+    public boolean parseBoolExpr(final String expression) {
+        this.idx = 0;
+
+        if(expression.length() == 1)
+            return expression.charAt(0) == 't';
+        
+        return this.helper(expression);
+    }
+
+    private boolean helper(final String s) {
+        final char operator = s.charAt(this.idx);
+
+        this.idx += 2;
+        
+        char c = s.charAt(this.idx);
+
+        boolean result = false;
+
+        if(c == 't') {
+            result = true;
+            this.idx++;
+        } else if(c == 'f') {
+            result = false;
+            this.idx++;
+        } else {
+            result = this.helper(s);
+        }
+
+        c = s.charAt(this.idx);
+
+        while(c != ')') {
+            if(c == ',') {
+                c = s.charAt(++this.idx);
+                continue;
+            }
+
+            boolean curr = false;
+
+            if(c == 't') {
+                curr = true;
+                this.idx++;
+            } else if(c == 'f') {
+                curr = false;
+                this.idx++;
+            } else {
+                curr = helper(s);
+            }
+
+            if(operator == '&')
+                result &= curr;
+            else if(operator == '|')
+                result |= curr;
+
+            c = s.charAt(this.idx);
+        }
+
+        this.idx++;
+
+        return operator == '!' ? !result : result;
     }
 }
