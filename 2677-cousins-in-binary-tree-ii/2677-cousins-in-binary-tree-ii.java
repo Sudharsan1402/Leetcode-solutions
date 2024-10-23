@@ -13,46 +13,28 @@
  *     }
  * }
  */
-class Pair{
-    int order;
-    TreeNode parent;
-    TreeNode currentNode;
-}
 class Solution {
     public TreeNode replaceValueInTree(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<TreeNode>();
-        if(root == null){
-            return root;
-        }
-        q.add(root);
-        int prev = root.val;
-        while(!q.isEmpty()){
-            int size = q.size();
-            int sum = 0;
-            while(size>0){
-                TreeNode n = q.poll();
-                int siblingSum = 0;
-                if(n.left!=null){
-                    siblingSum+=n.left.val;
-                }
-                if(n.right!=null){
-                    siblingSum+=n.right.val;
-                }
-                if(n.left!=null){
-                    q.add(n.left);
-                    n.left.val = siblingSum;
-                }
-                if(n.right!=null){
-                    q.add(n.right);
-                    n.right.val = siblingSum;
-                }
-                size--;
-                sum+=siblingSum;
-                n.val = prev - n.val;
+        int curLvlSum = root.val;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+        root.val *= -1;
+        while(!q.isEmpty()) {
+            int sz = q.size();
+            int newLvlSum = 0;
+            for(int i=0; i<sz; ++i) {
+                TreeNode cur = q.poll();
+                int childSum = 0;
+                if(cur.left!=null) childSum += cur.left.val;
+                if(cur.right!=null) childSum += cur.right.val;
+                newLvlSum += childSum;
+                if(cur.left!=null) cur.left.val = -childSum;
+                if(cur.right!=null) cur.right.val = -childSum;
+                cur.val += curLvlSum;
+                if(cur.left!=null) q.offer(cur.left);
+                if(cur.right!=null) q.offer(cur.right);
             }
-            prev = sum;
-
-            System.out.println(sum);
+            curLvlSum = newLvlSum;
         }
         return root;
     }
