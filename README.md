@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Counting
 |  |
 | ------- |
