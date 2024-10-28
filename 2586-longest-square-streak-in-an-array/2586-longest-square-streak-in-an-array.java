@@ -1,28 +1,31 @@
 class Solution {
-    public int longestSquareStreak(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
 
-        for(int n:nums){
-            set.add(n);
-        }
+    public int longestSquareStreak(int[] nums) {
+        // Map to store the length of square streak for each number
+        Map<Integer, Integer> streakLengths = new HashMap<>();
 
         Arrays.sort(nums);
 
-        int maxLen = 0;
-        for(int i = 0;i<nums.length;i++){
+        for (int number : nums) {
+            int root = (int) Math.sqrt(number);
 
-            int currLen = 0;
-            int curr = nums[i];
-
-            while(set.contains(curr)){
-                set.remove(curr);
-                currLen++;
-                curr = curr * curr;
+            // Check if the number is a perfect square and its square root is in the map
+            if (root * root == number && streakLengths.containsKey(root)) {
+                // If so, extend the streak from its square root
+                streakLengths.put(number, streakLengths.get(root) + 1);
+            } else {
+                // Otherwise, start a new streak
+                streakLengths.put(number, 1);
             }
-
-            maxLen = Math.max(maxLen,currLen);
         }
 
-        return maxLen > 1 ? maxLen:-1;
+        // Find the maximum streak length
+        int longestStreak = 0;
+        for (int streakLength : streakLengths.values()) {
+            longestStreak = Math.max(longestStreak, streakLength);
+        }
+
+        // Return -1 if no valid streak found, otherwise return the longest streak
+        return longestStreak == 1 ? -1 : longestStreak;
     }
 }
