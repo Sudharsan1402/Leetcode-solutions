@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Counting
 |  |
 | ------- |
