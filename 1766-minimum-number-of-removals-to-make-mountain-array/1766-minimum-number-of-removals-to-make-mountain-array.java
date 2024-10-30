@@ -9,7 +9,6 @@ class Solution {
         Arrays.fill(lisLength, 1);
         Arrays.fill(ldsLength, 1);
 
-        // Stores the length of longest increasing subsequence that ends at i.
         for (int i = 0; i < N; i++) {
             for (int j = i - 1; j >= 0; j--) {
                 if (nums[i] > nums[j]) {
@@ -18,7 +17,6 @@ class Solution {
             }
         }
 
-        // Stores the length of longest decreasing subsequence that starts at i.
         for (int i = N - 1; i >= 0; i--) {
             for (int j = i + 1; j < N; j++) {
                 if (nums[i] > nums[j]) {
