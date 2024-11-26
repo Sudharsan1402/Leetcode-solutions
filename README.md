@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3189-find-champion-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
