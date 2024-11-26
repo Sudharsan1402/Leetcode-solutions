@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0860-design-circular-queue) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0909-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0135-candy) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0670-maximum-swap) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
