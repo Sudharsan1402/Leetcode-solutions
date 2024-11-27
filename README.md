@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3188-find-champion-i](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3188-find-champion-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -282,11 +283,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3189-find-champion-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
