@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
