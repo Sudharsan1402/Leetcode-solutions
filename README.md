@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0330-patching-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0135-candy](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0330-patching-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
