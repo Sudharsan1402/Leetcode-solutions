@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0787-sliding-puzzle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -376,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0330-patching-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0670-maximum-swap) |
+| [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1304-longest-happy-string) |
@@ -452,4 +456,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Union Find
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
 <!---LeetCode Topics End-->
