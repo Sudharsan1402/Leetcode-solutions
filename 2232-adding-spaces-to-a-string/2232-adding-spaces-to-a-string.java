@@ -5,7 +5,6 @@ class Solution {
         for (int space : spaces) {
             spaceSet.add(space);
         }
-
         for (int i = 0; i < s.length(); i++) {
             if (spaceSet.contains(i)) {
                 sb.append(' ');
