@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0741-cherry-pickup) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0860-design-circular-queue) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -387,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -430,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1304-longest-happy-string) |
