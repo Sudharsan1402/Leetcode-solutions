@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0787-sliding-puzzle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -511,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
