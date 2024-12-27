@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0909-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0909-stone-game](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0909-stone-game) |
+| [1063-best-sightseeing-pair](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
