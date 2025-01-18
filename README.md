@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
@@ -544,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -555,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
