@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0330-patching-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0472-concatenated-words](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0741-cherry-pickup](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0741-cherry-pickup) |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0472-concatenated-words](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0770-couples-holding-hands](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -574,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0472-concatenated-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Number Theory
 |  |
