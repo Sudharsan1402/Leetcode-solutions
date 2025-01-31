@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0330-patching-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0494-target-sum) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -515,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -606,4 +612,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sudharsan1402/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
